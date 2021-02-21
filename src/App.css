@@ -1,0 +1,22 @@
+.img{
+    background:rgb(14, 15, 12);
+    color: cornsilk;
+    text-align: justify;
+    text-align: center;
+    justify-content: space-around;
+    -ms-flex-align: end;
+    
+}
+.movie_social{
+    margin-bottom: 20px;
+    text-align: center;}
+.mr-auto{
+    margin-left: 400px;
+}
+.mb-4{
+    background-color: darkblue;
+}
+.container{
+    background-color: darkblue;
+
+}
